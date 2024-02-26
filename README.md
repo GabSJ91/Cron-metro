@@ -16,6 +16,7 @@ Bem-vindo ao projeto do Cronômetro React! Este é um aplicativo de cronômetro 
 2 Instale as Dependências: ( npm install ) ( $ npm create vite@latest )<br />
 3 Execute o Projeto: ( npm run dev )<br />
 4 Acesse o Aplicativo: Abra o navegador e acesse o localhost indicado pelo debugger.<br />
+6 Acesse a Página de Arquitetura: Abra o navegador e acesse pelo localhost indicado pelo debugger
 
 ## Tecnologias Utilizadas
 ![React](https://img.shields.io/badge/React-16.x-blue?style=for-the-badge&logo=react&logoColor=white) <br />
